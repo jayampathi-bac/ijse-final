@@ -1,4 +1,7 @@
 flask
-opencv-python
-pytesseract
+torch
+facenet_pytorch
+torchvision
+PILLOW
 flask-cors
+opencv-python
